@@ -3,10 +3,8 @@
 A web application designed to provide users with inspirational and wise quotes. QuoteZen features a clean interface, random quote generation, and AI-powered suggestions tailored to the user's mood.
 
 # 🖼️ Preview
-*(A preview image/gif of QuoteZen in action would go here. For now, imagine a screenshot of the app displaying a quote.)*
 
-*Placeholder for App Preview: You can add a screenshot or GIF of QuoteZen here later.*
-<!-- Example: ![QuoteZen Preview](https://placehold.co/800x450.png?text=QuoteZen+App+Preview) -->
+[QuoteZen Preview](https![quotezen-codecircuit netlify app_](https://github.com/user-attachments/assets/a5f9a4cf-4293-44a9-b9fa-cff2657f0b24)
 
 
 # 🚀 Features
