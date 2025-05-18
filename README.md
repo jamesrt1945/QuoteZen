@@ -4,7 +4,7 @@ A web application designed to provide users with inspirational and wise quotes. 
 
 # 🖼️ Preview
 
-[quotezen-codecircuit netlify app](https://github.com/user-attachments/assets/a5f9a4cf-4293-44a9-b9fa-cff2657f0b24)
+![quotezen-codecircuit netlify app_](https://github.com/user-attachments/assets/36f6b665-620c-441c-ae1e-e0b1fa644a21)
 
 # 🚀 Features
 *   **Random Quote Fetch**: Displays a random quote from a curated collection.
